@@ -1,37 +1,3 @@
 ## Welcome to GitHub Pages
 
-You can use the [editor on GitHub](https://github.com/chatink/testlcdf/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/chatink/testlcdf/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+<iframe src="//partners.fantasypros.com/external/widget/fp-widget.php?height=800px&width=100%25&thead_color=%23ffffff&thead_font=%23000000&t_alt_row=%23fafafa&link_color=%233778be&pill_color=%232881eb&sport=NFL&wtype=ST&filters=670%3A2932%3A3112%3A3338&scoring=HALF&expert=3112&affiliate_code=&year=2020&week=0&auction=false&Notes=false&tags=false&cards=true&format=table&promo_link=true&positions=ALL%3AQB%3ARB%3AWR%3ATE%3ADST%3AK&ppr_positions=ALL%3ARB%3AWR%3ATE&half_positions=ALL%3ARB%3AWR%3ATE&site=&fd_aff=&dk_aff=&fa_aff=&dp_aff=&" height="800px" width="100%" frameborder="0" scrolling="no" allowtransparency="true"></iframe><div style="clear: both; font-size: 11px; font-family: sans-serif; width: 100%;"><span style="float:left"><a href="https://www.fantasypros.com/nfl/rankings/consensus-cheatsheets.php" target="_blank" rel="nofollow">2020 Fantasy Football Rankings</a> powered by FantasyPros</span></div>
